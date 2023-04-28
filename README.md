@@ -1,6 +1,6 @@
 # tp1
 
-El archivo .gitignore es un archivo de configuración de Git que permite especificar qué archivos y directorios deben ser ignorados por Git durante el proceso de seguimiento y control de versiones.
+2. El archivo .gitignore es un archivo de configuración de Git que permite especificar qué archivos y directorios deben ser ignorados por Git durante el proceso de seguimiento y control de versiones.
 
 Es conveniente incluirlo en un proyecto para evitar que se incluyan en el control de versiones archivos que no son necesarios o no tienen que ser compartidos, como archivos de configuración local, archivos generados automáticamente, archivos de registro, directorios de dependencias de paquetes, entre otros.
 
